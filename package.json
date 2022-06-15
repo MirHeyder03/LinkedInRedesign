@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "name": "linkedinredesign",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass style/SCSS/main.scss style/CSS/app.min.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirHeyder03/LinkedInRedesign.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirHeyder03/LinkedInRedesign/issues"
+  },
+  "homepage": "https://github.com/MirHeyder03/LinkedInRedesign#readme"
+}
